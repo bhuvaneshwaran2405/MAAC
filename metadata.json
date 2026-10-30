@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix MAAC Wheels and Accessories",
+  "description": "Premium automotive wheel, lighting, audio, and performance accessory store crafted for car enthusiasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

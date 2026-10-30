@@ -1,0 +1,523 @@
+{
+  "categories": [
+    {
+      "id": "lighting",
+      "name": "Lighting",
+      "slug": "lighting",
+      "tagline": "Hyper-Focus Bi-LED & Laser Optical Systems",
+      "description": "Precision projector retrofit modules, crystal-clear beam cutoffs, and track-spec ice-blue DRL halos designed for maximum nighttime vision and road presence.",
+      "image": "/images/categories/lighting.jpg",
+      "itemCount": 4
+    },
+    {
+      "id": "seat-covers",
+      "name": "Seat Covers",
+      "slug": "seat-covers",
+      "tagline": "Alcantara & Nappa Diamond-Stitched Precision",
+      "description": "Custom-tailored motorsport bolsters, breathable perforations, and race-spec high-density foam backing engineered for lateral g-force support and cockpit prestige.",
+      "image": "/images/categories/seat-covers.jpg",
+      "itemCount": 4
+    },
+    {
+      "id": "android-head-units",
+      "name": "Android Head Units",
+      "slug": "android-head-units",
+      "tagline": "Octa-Core QLED Telemetry & Wireless Cockpit",
+      "description": "Ultra-wide 2K displays, real-time OBD2 telemetry integration, low-latency DSP audio staging, and instant wireless Apple CarPlay & Android Auto.",
+      "image": "/images/categories/android-head-units.jpg",
+      "itemCount": 4
+    },
+    {
+      "id": "interior-accessories",
+      "name": "Interior Accessories",
+      "slug": "interior-accessories",
+      "tagline": "Forged Carbon Fiber & Ergonomic Alcantara Touchpoints",
+      "description": "Real dry carbon paddles, titanium weighted gear knobs, laser-scanned all-weather 3D mats, and motorsport ambient cockpit lighting.",
+      "image": "/images/categories/interior-accessories.jpg",
+      "itemCount": 4
+    },
+    {
+      "id": "exterior-accessories",
+      "name": "Exterior Accessories",
+      "slug": "exterior-accessories",
+      "tagline": "Aerodynamic Splitters, Diffusers & Forged Carbon Aero",
+      "description": "Wind-tunnel sculpted aero lips, downforce-generating rear wings, functional canards, and ultra-gloss dry carbon mirror caps.",
+      "image": "/images/categories/exterior-accessories.jpg",
+      "itemCount": 4
+    },
+    {
+      "id": "car-care",
+      "name": "Car Care",
+      "slug": "car-care",
+      "tagline": "Graphene 10H Armor & Hydrophobic Detailing Chemistry",
+      "description": "Laboratory-grade ceramic sealants, pH-neutral citrus foam pre-washes, ultra-plush 1200 GSM twisted-loop microfiber, and wheel iron fallout decontaminants.",
+      "image": "/images/categories/car-care.jpg",
+      "itemCount": 4
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-light-1",
+      "name": "Apex Bi-LED Projector Retrofit V3 (Dual Lens)",
+      "slug": "apex-bi-led-projector-retrofit-v3",
+      "categoryId": "lighting",
+      "categoryName": "Lighting",
+      "price": 349,
+      "compareAtPrice": 429,
+      "stock": 14,
+      "sku": "MAAC-LGT-001",
+      "image": "/images/categories/lighting.jpg",
+      "badge": "BEST SELLER",
+      "shortDesc": "Laser-assisted low/high beam module with razor-sharp Z-cutoff and 14,000 effective lumens.",
+      "specs": {
+        "Lumen Output": "14,000 Lumens / Pair",
+        "Color Temperature": "5500K Crisp Hyper-White",
+        "Lens Diameter": "3.0 inch Optical Grade Quartz",
+        "Power Rating": "65W Low / 75W High Beam",
+        "Lifespan": "50,000+ Operating Hours"
+      },
+      "rating": 4.9,
+      "reviewsCount": 38,
+      "featured": true,
+      "createdAt": "2026-09-21T19:35:12.330Z"
+    },
+    {
+      "id": "prod-light-2",
+      "name": "Phantom Ice-Blue DRL Halo & Demon Eye Kit",
+      "slug": "phantom-ice-blue-drl-halo-kit",
+      "categoryId": "lighting",
+      "categoryName": "Lighting",
+      "price": 189,
+      "compareAtPrice": 229,
+      "stock": 8,
+      "sku": "MAAC-LGT-002",
+      "image": "/images/categories/lighting.jpg",
+      "badge": "APEX SPEC",
+      "shortDesc": "Bluetooth-addressable RGBW halos with sequential turn signaling and track strobe patterns.",
+      "specs": {
+        "Compatibility": "Universal 80mm - 100mm Shrouds",
+        "Control Mode": "iOS/Android Low-Energy Bluetooth",
+        "Waterproof": "IP68 Submersible Rated"
+      },
+      "rating": 4.8,
+      "reviewsCount": 22,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-light-3",
+      "name": "Velocity Ultra-Output LED Fog Pods (Yellow 3000K)",
+      "slug": "velocity-ultra-output-led-fog-pods",
+      "categoryId": "lighting",
+      "categoryName": "Lighting",
+      "price": 159,
+      "compareAtPrice": 199,
+      "stock": 20,
+      "sku": "MAAC-LGT-003",
+      "image": "/images/categories/lighting.jpg",
+      "badge": "ALL-WEATHER",
+      "shortDesc": "Penetrating 3000K selective yellow fog pods for maximum contrast in rain, snow, and mountain mist.",
+      "specs": {
+        "Beam Pattern": "SAE / DOT Compliant Wide Flat Fog",
+        "Housing": "Die-cast 6063 Aircraft Aluminum Heat Sink",
+        "Bracket": "Stainless Steel 304 Anti-Vibration"
+      },
+      "rating": 4.7,
+      "reviewsCount": 19,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-light-4",
+      "name": "Apex Horizon Sequential Underglow Bar System",
+      "slug": "apex-horizon-sequential-underglow-bar",
+      "categoryId": "lighting",
+      "categoryName": "Lighting",
+      "price": 219,
+      "compareAtPrice": null,
+      "stock": 0,
+      "sku": "MAAC-LGT-004",
+      "image": "/images/categories/lighting.jpg",
+      "badge": "LIMITED RUN",
+      "shortDesc": "Armored solid silicone diffused neon bar with high-frequency frequency modulation and brake sync.",
+      "specs": {
+        "Protection": "Impact Proof Lexan Tube Enclosure",
+        "Color Sync": "Sound & RPM Pulse Responsive"
+      },
+      "rating": 4.9,
+      "reviewsCount": 45,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-seat-1",
+      "name": "Apex GT3 Diamond-Quilted Nappa Leather Covers",
+      "slug": "apex-gt3-diamond-quilted-nappa-covers",
+      "categoryId": "seat-covers",
+      "categoryName": "Seat Covers",
+      "price": 489,
+      "compareAtPrice": 599,
+      "stock": 12,
+      "sku": "MAAC-SEAT-001",
+      "image": "/images/categories/seat-covers.jpg",
+      "badge": "FLAGSHIP",
+      "shortDesc": "Precision 3D scanned form-fit seat protection with motorsport bolster reinforcement and red contrast stitching.",
+      "specs": {
+        "Material": "Full-Grain Breathable Italian Synthetic Nappa",
+        "Side Airbag Compatible": "Certified Tear-Stitch Safety System",
+        "Backing": "12mm High-Resilience High-Density Memory Foam"
+      },
+      "rating": 5,
+      "reviewsCount": 53,
+      "featured": true,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-seat-2",
+      "name": "Trackday Alcantara Grip Hybrid Seat System",
+      "slug": "trackday-alcantara-grip-hybrid-covers",
+      "categoryId": "seat-covers",
+      "categoryName": "Seat Covers",
+      "price": 529,
+      "compareAtPrice": 629,
+      "stock": 6,
+      "sku": "MAAC-SEAT-002",
+      "image": "/images/categories/seat-covers.jpg",
+      "badge": "MOTORSPORT",
+      "shortDesc": "Non-slip center Alcantara panels prevent torso slide under severe lateral g-forces.",
+      "specs": {
+        "Center Fabric": "Authentic Tactile Alcantara Suede",
+        "Fitment Type": "Model Specific Custom 3D Mold",
+        "Temperature Control": "Anti-Thermal UV Resistant Surface"
+      },
+      "rating": 4.9,
+      "reviewsCount": 31,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-seat-3",
+      "name": "Stealth Matte Black Perforated Sport Covers",
+      "slug": "stealth-matte-black-sport-covers",
+      "categoryId": "seat-covers",
+      "categoryName": "Seat Covers",
+      "price": 369,
+      "compareAtPrice": 420,
+      "stock": 18,
+      "sku": "MAAC-SEAT-003",
+      "image": "/images/categories/seat-covers.jpg",
+      "badge": "DAILY DRIVER",
+      "shortDesc": "Minimalist OEM-plus aesthetics with laser-perforated cooling channels and water-repellent barrier.",
+      "specs": {
+        "Stitching": "Tension Triple-Lock Nylon Thread",
+        "Installation": "Buckle & Anchor Fast-Lok Setup"
+      },
+      "rating": 4.6,
+      "reviewsCount": 16,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-head-1",
+      "name": "ApexPro 12.3\" QLED 2K Ultra-Wide Android Cockpit",
+      "slug": "apexpro-12-3-qled-2k-android-cockpit",
+      "categoryId": "android-head-units",
+      "categoryName": "Android Head Units",
+      "price": 649,
+      "compareAtPrice": 799,
+      "stock": 9,
+      "sku": "MAAC-AUD-001",
+      "image": "/images/categories/android-head-units.jpg",
+      "badge": "BEST SELLER",
+      "shortDesc": "Qualcomm Snapdragon Octa-Core 8GB+128GB with 48-band DSP, 4G SIM slot, and optical audio output.",
+      "specs": {
+        "Screen": "12.3-inch 1920x720 2.5D Curved QLED Panel",
+        "Processor": "Qualcomm Snapdragon 665 Octa-Core 2.0GHz",
+        "Memory": "8GB LPDDR4X RAM + 128GB UFS Flash",
+        "Audio DSP": "AKM 32-Bit 768kHz Professional DAC",
+        "Connectivity": "Wireless Apple CarPlay & Android Auto"
+      },
+      "rating": 4.9,
+      "reviewsCount": 64,
+      "featured": true,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-head-2",
+      "name": "Apex 10.1\" Floating IPS Android Media Hub",
+      "slug": "apex-10-1-floating-ips-android-hub",
+      "categoryId": "android-head-units",
+      "categoryName": "Android Head Units",
+      "price": 439,
+      "compareAtPrice": 519,
+      "stock": 15,
+      "sku": "MAAC-AUD-002",
+      "image": "/images/categories/android-head-units.jpg",
+      "badge": "HIGH VALUE",
+      "shortDesc": "Double DIN modular chassis with tilt-adjustable floating glass screen and AHD 1080p reverse camera included.",
+      "specs": {
+        "Display": "10.1-inch 1280x720 IPS Multi-touch Glass",
+        "Memory": "4GB RAM + 64GB Storage",
+        "Camera Support": "AHD 1080p 30fps Night Vision Included"
+      },
+      "rating": 4.8,
+      "reviewsCount": 29,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-head-3",
+      "name": "OBD2 Real-Time CANBUS Gauge & Telemetry Unit",
+      "slug": "obd2-canbus-gauge-telemetry-unit",
+      "categoryId": "android-head-units",
+      "categoryName": "Android Head Units",
+      "price": 289,
+      "compareAtPrice": 349,
+      "stock": 0,
+      "sku": "MAAC-AUD-003",
+      "image": "/images/categories/android-head-units.jpg",
+      "badge": "TRACK TELEMETRY",
+      "shortDesc": "Live boost pressure, air-fuel ratio, oil temperature, and 0-100 km/h acceleration timer on-screen.",
+      "specs": {
+        "CAN Protocol": "High-Speed ISO 15765-4 CAN 500kbps",
+        "Lag": "<12ms Latency Telemetry Refresh"
+      },
+      "rating": 5,
+      "reviewsCount": 41,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-int-1",
+      "name": "Forged Dry Carbon D-Cut Racing Steering Wheel",
+      "slug": "forged-dry-carbon-d-cut-steering-wheel",
+      "categoryId": "interior-accessories",
+      "categoryName": "Interior Accessories",
+      "price": 799,
+      "compareAtPrice": 950,
+      "stock": 5,
+      "sku": "MAAC-INT-001",
+      "image": "/images/categories/interior-accessories.jpg",
+      "badge": "CUSTOM CRAFT",
+      "shortDesc": "Authentic autoclave-cured forged carbon fiber with Italian perforated Alcantara grips and red 12 o’clock center ring.",
+      "specs": {
+        "Core": "OEM Spec Magnesium-Aluminum Alloy Skeleton",
+        "Finish": "Satin Gloss UV-Resistant Autoclave Pre-Preg Carbon",
+        "Profile": "Flat-Bottom D-Shape with Ergonomic Thumb Notches"
+      },
+      "rating": 5,
+      "reviewsCount": 47,
+      "featured": true,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-int-2",
+      "name": "Magnetic Tactile Carbon Fiber Paddle Shifters",
+      "slug": "magnetic-tactile-carbon-paddle-shifters",
+      "categoryId": "interior-accessories",
+      "categoryName": "Interior Accessories",
+      "price": 189,
+      "compareAtPrice": 249,
+      "stock": 14,
+      "sku": "MAAC-INT-002",
+      "image": "/images/categories/interior-accessories.jpg",
+      "badge": "APEX SPEC",
+      "shortDesc": "Neodymium magnetic snap mechanism provides crisp, mechanical GT3-style gear change feedback.",
+      "specs": {
+        "Actuation": "Industrial Grade Neodymium Magnets",
+        "Material": "100% 3K Twill Matte Carbon Blades"
+      },
+      "rating": 4.9,
+      "reviewsCount": 36,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-int-3",
+      "name": "Titanium Weighted Billet Shift Knob (480g)",
+      "slug": "titanium-weighted-billet-shift-knob",
+      "categoryId": "interior-accessories",
+      "categoryName": "Interior Accessories",
+      "price": 129,
+      "compareAtPrice": 159,
+      "stock": 25,
+      "sku": "MAAC-INT-003",
+      "image": "/images/categories/interior-accessories.jpg",
+      "badge": "PRECISION SHIFT",
+      "shortDesc": "Heavyweight mass reduces shift effort while providing direct mechanical synchro engagement.",
+      "specs": {
+        "Weight": "480 grams Solid Billet Grade 5 Titanium",
+        "Thread Fitment": "M10x1.25, M10x1.5, M12x1.25 Adapters"
+      },
+      "rating": 4.8,
+      "reviewsCount": 18,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-ext-1",
+      "name": "Autoclave Pre-Preg Carbon Fiber Front Splitter",
+      "slug": "autoclave-carbon-fiber-front-splitter",
+      "categoryId": "exterior-accessories",
+      "categoryName": "Exterior Accessories",
+      "price": 589,
+      "compareAtPrice": 720,
+      "stock": 7,
+      "sku": "MAAC-EXT-001",
+      "image": "/images/categories/exterior-accessories.jpg",
+      "badge": "AERO SPEC",
+      "shortDesc": "Aerodynamically optimized front lip spoiler with integrated skid plates and chassis support stanchions.",
+      "specs": {
+        "Manufacturing": "Pre-Preg Carbon Fiber Autoclave Molded",
+        "Downforce": "Provides 38kg Functional Front Axle Load @ 120km/h",
+        "Coating": "High-Solid Ceramic Clear Coat UV Inhibited"
+      },
+      "rating": 4.9,
+      "reviewsCount": 39,
+      "featured": true,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-ext-2",
+      "name": "Rear Aero Diffuser with F1 Brake Light Module",
+      "slug": "rear-aero-diffuser-f1-light",
+      "categoryId": "exterior-accessories",
+      "categoryName": "Exterior Accessories",
+      "price": 389,
+      "compareAtPrice": 479,
+      "stock": 11,
+      "sku": "MAAC-EXT-002",
+      "image": "/images/categories/exterior-accessories.jpg",
+      "badge": "TRACK INSPIRED",
+      "shortDesc": "Aggressive 4-fin underbody flow extractor with strobe flashing center red F1 safety lamp.",
+      "specs": {
+        "Material": "High-Impact ABS / Polycarbonate Polymer",
+        "Strobe Rate": "5-Flash Emergency Braking Cadence"
+      },
+      "rating": 4.7,
+      "reviewsCount": 24,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-care-1",
+      "name": "Apex Armor 10H Graphene Ceramic Coating Kit",
+      "slug": "apex-armor-10h-graphene-ceramic-coating",
+      "categoryId": "car-care",
+      "categoryName": "Car Care",
+      "price": 139,
+      "compareAtPrice": 179,
+      "stock": 35,
+      "sku": "MAAC-CARE-001",
+      "image": "/images/categories/car-care.jpg",
+      "badge": "5-YEAR SHIELD",
+      "shortDesc": "Reduced water spotting, extreme candy gloss reflectivity, and 115° contact angle hydrophobic bead discharge.",
+      "specs": {
+        "Hardness": "Certified 10H Pencil Scale Pencil Scratch Resistance",
+        "Durability": "Up to 5 Years / 60,000 Kilometers",
+        "Kit Contents": "50ml Vial, Suede Applicator, Leveling Towels, Nitrile Gloves"
+      },
+      "rating": 4.9,
+      "reviewsCount": 78,
+      "featured": true,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    },
+    {
+      "id": "prod-care-2",
+      "name": "Iron Destroyer Decontaminant Wheel Cleaner (1000ml)",
+      "slug": "iron-destroyer-wheel-cleaner",
+      "categoryId": "car-care",
+      "categoryName": "Car Care",
+      "price": 34,
+      "compareAtPrice": 42,
+      "stock": 49,
+      "sku": "MAAC-CARE-002",
+      "image": "/images/categories/car-care.jpg",
+      "badge": "COLOR-CHANGING",
+      "shortDesc": "Acid-free pH-neutral formula turns purple on contact as it dissolves baked-on metallic brake dust and sintered iron.",
+      "specs": {
+        "Safety": "Safe on Anodized, Clear-Coated, and Diamond Cut Forged Rims",
+        "Reaction Time": "3 to 5 Minutes Active Reaction Color Change"
+      },
+      "rating": 4.9,
+      "reviewsCount": 92,
+      "createdAt": "2026-09-21T19:35:12.331Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "MAAC-2026-684339",
+      "status": "confirmed",
+      "items": [
+        {
+          "productId": "prod-care-2",
+          "name": "Iron Destroyer Decontaminant Wheel Cleaner (1000ml)",
+          "price": 34,
+          "quantity": 1,
+          "image": "/images/categories/car-care.jpg",
+          "sku": "MAAC-CARE-002"
+        }
+      ],
+      "subtotal": 34,
+      "shippingFee": 25,
+      "total": 59,
+      "customer": {
+        "fullName": "Brian O'Conner",
+        "email": "brian@skyline.jp",
+        "phone": "+1 555-234-5678",
+        "address": "1327 Racer Alley",
+        "city": "Los Angeles",
+        "postalCode": "90001",
+        "vehicleDetails": "1999 Nissan Skyline GT-R R34 V-Spec"
+      },
+      "payment": {
+        "method": "MAAC Direct Secure Checkout (Phase 2 Gateway Ready)",
+        "referenceId": "REF-MUBNA9XH-UF5WV",
+        "status": "authorized",
+        "gatewayPayload": {
+          "gateway": "Stripe/Razorpay_Phase2_Slot",
+          "capturedAt": "2026-09-21T19:35:18.725Z",
+          "currency": "USD"
+        }
+      },
+      "createdAt": "2026-09-21T19:35:18.725Z",
+      "updatedAt": "2026-09-21T19:35:18.725Z"
+    },
+    {
+      "id": "MAAC-2026-8849",
+      "status": "confirmed",
+      "items": [
+        {
+          "productId": "prod-light-1",
+          "name": "Apex Bi-LED Projector Retrofit V3 (Dual Lens)",
+          "price": 349,
+          "quantity": 1,
+          "image": "/images/categories/lighting.jpg",
+          "sku": "MAAC-LGT-001"
+        },
+        {
+          "productId": "prod-care-1",
+          "name": "Apex Armor 10H Graphene Ceramic Coating Kit",
+          "price": 139,
+          "quantity": 1,
+          "image": "/images/categories/car-care.jpg",
+          "sku": "MAAC-CARE-001"
+        }
+      ],
+      "subtotal": 488,
+      "shippingFee": 0,
+      "total": 488,
+      "customer": {
+        "fullName": "Marcus Vance",
+        "email": "marcus.vance@apexgarage.com",
+        "phone": "+1 (555) 839-2041",
+        "address": "428 Motorway Blvd, Suite 104",
+        "city": "Austin",
+        "postalCode": "78701",
+        "vehicleDetails": "2023 BMW M3 Competition (G80)"
+      },
+      "payment": {
+        "method": "Stripe Sandbox (Phase 2 Ready)",
+        "referenceId": "pi_test_3N8294h92841k",
+        "status": "paid",
+        "gatewayPayload": {
+          "testMode": true,
+          "provider": "stripe"
+        }
+      },
+      "createdAt": "2026-09-19T19:35:12.332Z",
+      "updatedAt": "2026-09-19T19:35:12.332Z"
+    }
+  ],
+  "adminKey": "maac2026"
+}
